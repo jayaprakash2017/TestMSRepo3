@@ -4,7 +4,7 @@
   <groupId>com.demo</groupId>
   <artifactId>MSTestRepo3</artifactId>
   <packaging>war</packaging>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.4-SNAPSHOT</version>
   <name>MSTestRepo3 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
